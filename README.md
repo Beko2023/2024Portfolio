@@ -2,6 +2,7 @@ This is my portfolio website to give an overview of the solo projects completed 
 You can find access the live app here -> https://berksportfolio.netlify.app/ 
 
 Here are some images;
+
 ![image](https://github.com/user-attachments/assets/0ac107b8-009a-4777-b01d-fcf666f8f084)
 
 ![image](https://github.com/user-attachments/assets/1d4b8b6c-a40c-4b3e-8778-4443b15087d6)
